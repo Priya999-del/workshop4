@@ -2,6 +2,8 @@ Author: Ian Lawson (feedback to ian.lawson@redhat.com)
 
 === Introduction-Priyanka
 
+My document 
+
 This lab introduces the command line interface to OpenShift, 'oc', and the concepts of the interactions you can have with the OpenShift system through it.
 
 TIP: The attendee will be using the terminal application created in the pre-requisites step (for command line exercises). It is strongly suggested the attendee uses Chrome or Firefox. All of this lab is done with the terminal.
