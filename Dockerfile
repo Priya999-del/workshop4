@@ -18,5 +18,5 @@ COPY . /devex
 WORKDIR /devex
 
 CMD ["ansible-playbook", \
-     "setup/playbooks/Setup_OpenShift.yml", \
-     "setup/playbooks/Setup_Docs.yml"]
+     "setup/playbooks/Deploy_Advanced_Course.yml", \
+     "setup/playbooks/Deploy_Docs.yml"]
