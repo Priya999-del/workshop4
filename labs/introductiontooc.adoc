@@ -66,7 +66,7 @@ Now type:
 oc api-resources
 ----
 
-This command goes to the OpenShift Cluster and gets a list of the all the object types/resources you can see. There are a lot of them. Try this command:
+This command goes to the OpenShift Cluster and gets a list of all the object types/resources you can see. There are a lot of them. Try this command:
 
 [source]
 ----
