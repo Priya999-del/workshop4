@@ -282,7 +282,7 @@ oc scale dc/nodenews --replicas=2
 
 === A Summary of Application Interactions
 
-Go back to the UI and make sure you are on Developer mode. Click on Topology. 
+Go back to the UI and make sure you are in Developer mode. Click on Topology. 
 
 Click on the ‘nodenews’ application
 
