@@ -12,7 +12,7 @@ The activities in this workshop will introduce a new version of a simple applica
 
 TIP: The application to be used in this workshop is a simple NodeJS REST interface. Version 1 exists on the master branch of the GIT Repository and version 2 exists on the experimental branch.
 
-To begin the creation of the application use the following commands in an command line window. :
+To begin the creation of the application use the following commands in a command line window. :
 
 ==== Creation of version 1
 
