@@ -92,7 +92,7 @@ In a separate browser tab go to https://github.com/utherp0/nodenews[https://gith
 
 Close the github tab
 
-Back at the OCP4.6 UI scroll down and ensure the Application Name and Name textboxes have been autofilled. These should be set to nodenews-app and nodenews in order
+Back at the OCP4.7 UI scroll down and ensure the Application Name and Name textboxes have been autofilled. These should be set to nodenews-app and nodenews in order
 
 *OpenShift 4 introduces the concept of Application Grouping. This allows a visualisation of multiple Applications in the same 'group', making visibility of the Application much 
 simpler.*
